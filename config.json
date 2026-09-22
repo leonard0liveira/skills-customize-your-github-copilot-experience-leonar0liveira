@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-api-auth",
+      "title": "Database APIs with Authentication",
+      "description": "Build a FastAPI app with SQLite persistence and a simple login flow for protected endpoints.",
+      "path": "assignments/database-api-auth",
+      "dueDate": "2026-10-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
