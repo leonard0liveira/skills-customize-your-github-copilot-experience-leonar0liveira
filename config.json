@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mcp-integrations",
+      "title": "MCP in Integration Development",
+      "description": "Explore how Model Context Protocol helps connect AI tools to external systems and services.",
+      "path": "assignments/mcp-integrations",
+      "dueDate": "2026-10-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
